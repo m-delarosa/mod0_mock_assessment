@@ -1,0 +1,37 @@
+Doing Laundry
+
+1.1 Washing Clothes
+  1.1.1 Gather all dirty clothes
+    1.1.1.1 Identify location of laundry hamper
+    1.1.1.2 Walk towards laundry hamper
+    1.1.1.3 Review items in hamper for washing
+      1.1.1.3.1 Grab one item at a time.
+      1.1.1.3.2 Determine if washing item is needed.
+      1.1.1.3.3 If washing item is needed, empty contents from any pockets and set aside into hamper #2. If washing item is not needed, store.
+      1.1.1.3.4 Continue steps 1.1.1.3.1 - 1.1.1.3.3 above until laundry hamper is empty and all items to be washed have been transferred to hamper #2 or stored for reuse.
+    1.1.1.4 Move hamper #2 to laundry room.
+    1.1.1.5 Empty contents of hamper #2 into washer.
+      1.1.1.5.1 Open washer lid
+      1.1.1.5.2 Check washer for other clothes
+       1.1.1.5.2.1 If washer contains clothes, rewash clothes existing clothes and restart process at 1.1.1.5 after.
+    1.1.1.6 Configure washing machine
+        1.1.1.6.1 Press Power On
+        1.1.1.6.2 Rotate knob to select cycle
+          1.1.1.6.2.1 Observe load size
+          1.1.1.6.2.2 If more than 50% of tub full, select "normal load"
+          1.1.1.6.2.3 If less than 50% of tub full, select "light load"
+    1.1.1.7 Add detergent
+      1.1.1.7.1 Locate detergent
+      1.1.1.7.2 Grab detergent
+      1.1.1.7.3 Locate detergent scoop
+      1.1.1.7.4 Fill detergent scoop to appropriate level according to load size
+        1.1.1.7.4.1 Observe load size.
+        1.1.1.7.4.2 If more than 50% of tub full, fill to line 2.
+        1.1.1.7.4.3 If less than 50% of tub full, fill to line 1.
+      1.1.1.7.5 Unload contents of detergent scoop into washer tub.
+      1.1.1.7.6 Close washer lid.
+      1.1.1.7.7 Press run
+1.2 Drying Clothes
+1.3 Storing Clothes
+
+*I reached 33 tasks and subtasks fairly quickly, so I am going to stop here at washing, but I am happen to modify or go further if need be. Your feedback is greatly appreciated. Thank you.
