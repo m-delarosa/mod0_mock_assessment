@@ -1,0 +1,15 @@
+Class: Boat
+
+Attributes:
+color (string)
+motorArrangement (array)
+length (integer)
+gasTankCapacity (float)
+twoStrokeMotor (boolean)
+currentGasCapacity (float)
+
+Methods:
+calculatePercentFull (divides currentGasCapacity by gasTankCapacity)
+changeColor (modifies color attribute)
+changeMotorArrangement (modifies position of motors)
+applyTwoStroke (changes motor type to a two stroke motor)
