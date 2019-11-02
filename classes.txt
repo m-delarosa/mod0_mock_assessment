@@ -3,6 +3,7 @@ Class: Boat
 Attributes:
 color (string)
 motorArrangement (array)
+motorType (array)
 length (integer)
 gasTankCapacity (float)
 twoStrokeMotor (boolean)

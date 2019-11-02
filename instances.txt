@@ -1,0 +1,35 @@
+Instances of Boat Class
+
+Object: AL26_Wakeboat
+
+Attributes:
+color: "Black"
+motorArrangement: "Inboard"
+length: 26
+gasTankCapacity: 81.2
+twoStrokeMotor: false
+currentGasCapacity: 20.3
+motorType: four_stroke
+
+Methods:
+calculatePercentFull: 20.3/81.2 = .25
+changeColor: color = "Blue"
+changeMotorArrangement: motorArrangement = "Outboard"
+applyTwoStroke: motorType = two_stroke
+
+Object: Hobie_Scooter_Sail_Boat
+
+Attributes:
+color: "White"
+motorArrangement: "None"
+length: 15
+gasTankCapacity: 0
+twoStrokeMotor: false
+currentGasCapacity: 0
+motorType: "None"
+
+Methods:
+calculatePercentFull: 0/0 = 0
+changeColor: color = "Yellow"
+changeMotorArrangement: motorArrangement = "Inboard"
+applyTwoStroke: motorType = two_stroke
